@@ -1,0 +1,13 @@
+NAME                                     READY   STATUS    RESTARTS   AGE
+adservice-7659d48d84-2zswh               2/2     Running   0          4m55s
+cartservice-65c987d449-mtrnl             2/2     Running   2          4m56s
+checkoutservice-8bddb89db-lbns4          2/2     Running   0          4m56s
+currencyservice-7978fb77d8-jhwfw         2/2     Running   0          4m56s
+emailservice-8848674-nhdl4               2/2     Running   0          4m57s
+frontend-58594bf684-wllc2                2/2     Running   0          4m56s
+paymentservice-77979f5c66-72cv6          2/2     Running   0          4m56s
+productcatalogservice-7d5f94d858-tgnr8   2/2     Running   0          4m56s
+recommendationservice-764dc66688-ldskp   2/2     Running   0          4m56s
+redis-cart-74594bd569-mlxqw              2/2     Running   0          4m56s
+shippingservice-589dc45c5d-f4nst         2/2     Running   0          4m56s
+
