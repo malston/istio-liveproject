@@ -1,3 +1,8 @@
+# Milestone 1
+
+## Verify Install
+
+```console
 ⎈ |minikube:online-boutique py-3.8.6 malston-a01 in ~/istio-1.9.1
 ○ → istioctl verify-install
 1 Istio control planes detected, checking --revision "default" only
@@ -69,3 +74,4 @@ successfully
 Checked 12 custom resource definitions
 Checked 3 Istio Deployments
 ✔ Istio is installed and verified successfully
+```
