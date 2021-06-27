@@ -1,4 +1,4 @@
-## Milestone 2
+# Milestone 2
 
 We curl the ingress gateway hosted at 127.0.0.1 and get back a 404 because there isn't a virtual service to handle that route
 
